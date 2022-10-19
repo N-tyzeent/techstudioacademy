@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+.links li{
+    display: inline-flex;
+    padding-left: 15px;
+}
+
+.links a{
+    text-decoration: none;
+}
